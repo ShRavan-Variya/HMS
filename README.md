@@ -1,4 +1,4 @@
-
+<!-- 
 # Hospital Management System
 
 
@@ -127,4 +127,4 @@ After the process of Appointment is completed.Administrator add the invoice for 
 
 
 
-
+ -->
